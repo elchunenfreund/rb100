@@ -1,2 +1,0 @@
-ruby-exersises
-launch school
